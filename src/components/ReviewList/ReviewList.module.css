@@ -1,0 +1,38 @@
+.warningReviews {
+  font-size: 28px;
+  font-weight: 600;
+  text-align: center;
+  color: red;
+  margin-bottom: 20px;
+}
+.authorName {
+  color: #313131;
+  font-size: 16px;
+  font-weight: 700;
+  margin: 10px 0 10px 0;
+}
+.mainName {
+  font-size: 20px;
+  color: #141414;
+  text-indent: -5px;
+  margin-bottom: 10px;
+}
+.itemHolder {
+  border-radius: 20px;
+  padding: 50px;
+  background-color: whitesmoke;
+  margin: 20px 100px 20px;
+}
+.contentReviews {
+  font-size: 16px;
+  font-weight: 600;
+  color: grey;
+  text-indent: 20px;
+  text-align: justify;
+  line-height: 1.5;
+}
+.createdDate {
+  margin-bottom: 20px;
+  font-weight: 600;
+  color: rgb(53, 53, 53);
+}
