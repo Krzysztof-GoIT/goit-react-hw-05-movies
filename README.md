@@ -17,7 +17,7 @@ npm run start
 #### Get trending movie by api
 
 ```http
-  GET https://api.themoviedb.org/3//trending/movie/day
+  GET https://api.themoviedb.org/3/trending/movie/day
 ```
 
 | Parameter | Type     | Description                |
